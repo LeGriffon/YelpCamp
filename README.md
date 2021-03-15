@@ -1,4 +1,4 @@
-# YCampgrounds Review Web ApplicationelpCamp
+# Campgrounds Review Web Application
 ## 
 
 * YelpCamp is a web application that enables users to sign up and log in to create and review campgrounds. This project was from Colt Steele's web development course on Udemy.  
@@ -46,9 +46,9 @@ seed.js
 ```
 
 ## Features
-* Users can sign up a new account, and login to the web application using username and password
-* Users can create, edit, and remove their own campgrounds
-* Users can add review to any campground, and their reviews can be edited or removed
+* Users can sign up for a new account, and log in to the web application using username and password
+* Users can create, edit, and remove their campgrounds
+* Users can add a review to any campground, and their reviews can be edited or removed
 
 # UX/UI
 ## Landing page
